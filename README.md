@@ -16,7 +16,7 @@ This project predicts annual health insurance premium based on user details such
 - Streamlit
 
 ## Live Demo
-[Click here to use the app]([https://health-premium-predict.streamlit.app/])
+[Click here to use the app](https://health-premium-predict.streamlit.app/)
 
 ## Author
 Suraj Chaudhary
