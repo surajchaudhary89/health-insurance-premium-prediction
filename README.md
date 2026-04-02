@@ -18,3 +18,9 @@ This project predicts annual health insurance premium based on user details such
 ## Run Locally
 ```bash
 streamlit run app.py
+
+## Live Demo
+[Click here to use the app]([https://health-premium-predict.streamlit.app/])
+
+## Author
+Suraj Chaudhary
